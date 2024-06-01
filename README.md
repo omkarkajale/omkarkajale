@@ -1,9 +1,8 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/omkar-kajale21/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am an enthusiastic and dedicated professional with a robust foundation in Cyber Security and Cloud Security, complemented by a comprehensive skill set in Python full-stack development and Data Science. My passion lies in solving complex problems and securing digital environments, ensuring that systems and data remain protected against ever-evolving threats.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
